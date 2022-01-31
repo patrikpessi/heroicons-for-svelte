@@ -1,4 +1,6 @@
-# [Heroicons](https://heroicons.com/) for [Svelte](https://svelte.dev/)
+# Heroicons for Svelte
+
+Easy way to use [Heroicons](https://heroicons.dev/) in your [Svelte](http://svelte.dev/) project.
 
 ## Installation
 
