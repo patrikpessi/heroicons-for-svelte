@@ -4,6 +4,10 @@
     "svelte": "src/index.js",
     "module": "dist/index.mjs",
     "main": "dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/patrikpessi/heroicons-for-svelte"
+    },
     "scripts": {
         "setupDev": "npx degit tailwindlabs/heroicons src/heroicons --force",
         "build": "npm run generate && rollup -c",
