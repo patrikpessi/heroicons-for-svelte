@@ -9,7 +9,7 @@
         "url": "https://github.com/patrikpessi/heroicons-for-svelte"
     },
     "scripts": {
-        "setupDev": "npx degit tailwindlabs/heroicons src/heroicons --force",
+        "setupDev": "npm install && npx degit tailwindlabs/heroicons src/heroicons --force",
         "build": "npm run generate && rollup -c",
         "generate": "node scripts/generate.js",
         "prepublishOnly": "npm run build"
