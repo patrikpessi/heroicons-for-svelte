@@ -43,3 +43,8 @@
 -   For a full list of icons, see https://heroicons.com/
 -   All the icons are available in the outline and solid variants.
 -   Icon names have been converted to PascalCase (eg `bell` -> `Bell` or `document-text` -> `DocumentText`).
+
+## Development
+
+1. Run: `npm run setupDev`
+2. Edit and run: `npm run prepublishOnly` to build the package

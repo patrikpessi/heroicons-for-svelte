@@ -5,6 +5,7 @@
     "module": "dist/index.mjs",
     "main": "dist/index.js",
     "scripts": {
+        "setupDev": "npx degit tailwindlabs/heroicons src/heroicons --force",
         "build": "npm run generate && rollup -c",
         "generate": "node scripts/generate.js",
         "prepublishOnly": "npm run build"
