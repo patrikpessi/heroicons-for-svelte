@@ -1,6 +1,6 @@
 {
     "name": "heroicons-for-svelte",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "svelte": "src/index.js",
     "module": "dist/index.mjs",
     "main": "dist/index.js",
@@ -22,7 +22,12 @@
         "svelte": "^3.5.0"
     },
     "keywords": [
-        "svelte"
+        "svelte",
+        "icons",
+        "heroicons",
+        "heroicons-for-svelte",
+        "tailwindcss",
+        "tailwind"
     ],
     "files": [
         "src",
