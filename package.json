@@ -1,6 +1,6 @@
 {
     "name": "heroicons-for-svelte",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "svelte": "src/index.js",
     "module": "dist/index.mjs",
     "main": "dist/index.js",
@@ -28,11 +28,6 @@
         "heroicons-for-svelte",
         "tailwindcss",
         "tailwind"
-    ],
-    "files": [
-        "src",
-        "icons",
-        "dist"
     ],
     "dependencies": {
         "camelcase": "^6.3.0"
