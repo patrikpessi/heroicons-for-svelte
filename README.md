@@ -40,6 +40,8 @@ Easy way to use [Heroicons](https://heroicons.dev/) in your [Svelte](http://svel
 </div>
 ```
 
+Try the package in [this Svelte REPL](https://svelte.dev/repl/260e57c760e847adabf970e72ef04c89?version=3.46.3)
+
 ## Icons
 
 -   For a full list of icons, see https://heroicons.com/
