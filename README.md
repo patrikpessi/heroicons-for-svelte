@@ -53,11 +53,6 @@ The default size for the icons is `1em`.
 	import Icon from "heroicons-for-svelte"
 	import { Bell as OutlineBell } from "heroicons-for-svelte/icons/outline"
 	import { Bell as SolidBell } from "heroicons-for-svelte/icons/solid"
-	/*
-	-   For a full list of icons, see https://heroicons.com/
-	-   All the icons are available in the outline and solid variants.
-	-   Icon names have been converted to PascalCase (eg `bell` -> `Bell` or `document-text` -> `DocumentText`).
-	*/
 </script>
 
 <Icon icon={OutlineBell} style="font-size: 24px"/>
